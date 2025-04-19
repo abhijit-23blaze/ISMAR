@@ -1,0 +1,113 @@
+{
+    "poses": [
+      {
+        "name": "Pranamasana",
+        "description": "Prayer Pose: Stand tall with feet together, palms joined at the heart center in Anjali Mudra. Ground yourself and set an intention.",
+        "benefits": [
+          "Calms the mind and centers awareness",
+          "Promotes balance and stability",
+          "Prepares the body and mind for practice",
+          "Connects breath with movement"
+        ],
+        "calories_per_minute": 1.5
+      },
+      {
+        "name": "Hasta Uttanasana",
+        "description": "Raised Arms Pose: Inhale deeply, stretching both arms upwards and arching the back slightly from the upper back. Keep biceps close to the ears.",
+        "benefits": [
+          "Stretches the shoulders, chest, and abdomen",
+          "Tones the arms and shoulder muscles",
+          "Improves spinal flexibility",
+          "Expands lung capacity"
+        ],
+        "calories_per_minute": 2.0
+      },
+      {
+        "name": "Hasta Padasana",
+        "description": "Hand to Foot Pose (Standing Forward Bend): Exhale, bend forward from the hips, keeping the spine straight initially. Try to place palms flat on the floor beside the feet or hold ankles.",
+        "benefits": [
+          "Stretches hamstrings, calves, and the entire back",
+          "Calms the brain and helps relieve stress",
+          "Stimulates liver and kidneys",
+          "Improves digestion"
+        ],
+        "calories_per_minute": 2.2
+      },
+      {
+        "name": "Ashwa Sanchalanasana",
+        "description": "Equestrian Pose: Inhale, step one leg back (e.g., right leg), placing the knee on the floor. Bend the front knee, push pelvis forward, lift the chest, and look up.",
+        "benefits": [
+          "Stretches hip flexors, quadriceps, and spine",
+          "Strengthens legs and knees",
+          "Opens the chest and shoulders",
+          "Increases balance and concentration"
+        ],
+        "calories_per_minute": 3.0
+      },
+      {
+        "name": "Plank Pose",
+        "description": "Plank Pose (Phalakasana): Hold breath briefly or exhale, step the front leg back to join the other. Align the body in a straight line from head to heels, engaging the core.",
+        "benefits": [
+          "Strengthens core, arms, wrists, and shoulders",
+          "Tones abdominal muscles",
+          "Builds full-body stability and endurance",
+          "Prepares for more challenging arm balances"
+        ],
+        "calories_per_minute": 3.5
+      },
+      {
+        "name": "Ashtanga Namaskara",
+        "description": "Eight Limb Pose: Exhale, gently lower the knees, chest, and chin to the floor simultaneously. Keep the hips slightly raised and elbows tucked in.",
+        "benefits": [
+          "Strengthens chest, arms, and shoulders",
+          "Increases spinal flexibility",
+          "Prepares for Cobra or Upward-Facing Dog",
+          "Develops coordination"
+        ],
+        "calories_per_minute": 2.5
+      },
+      {
+        "name": "Bhujangasana",
+        "description": "Cobra Pose: Inhale, slide forward and lift the chest off the floor, keeping the pelvis down. Straighten arms slightly or fully, arching the back gently. Roll shoulders back and down.",
+        "benefits": [
+          "Strengthens spine, chest, and shoulders",
+          "Increases flexibility of the back",
+          "Stimulates abdominal organs",
+          "Relieves stress and fatigue"
+        ],
+        "calories_per_minute": 2.8
+      },
+      {
+        "name": "Adho Mukha Svanasana",
+        "description": "Downward-Facing Dog Pose: Exhale, lift hips up and back, forming an inverted 'V' shape. Press hands firmly into the floor, lengthen spine, and reach heels towards the floor.",
+        "benefits": [
+          "Stretches shoulders, hamstrings, calves, and hands",
+          "Strengthens arms and legs",
+          "Energizes the body and calms the mind",
+          "Improves circulation"
+        ],
+        "calories_per_minute": 3.2
+      },
+      {
+        "name": "Tadasana",
+        "description": "Mountain Pose: Stand tall with feet hip-width apart or together, arms relaxed by the sides, palms facing forward or thighs. Engage core, lengthen spine, ground feet.",
+        "benefits": [
+          "Improves posture and body awareness",
+          "Strengthens thighs, knees, and ankles",
+          "Increases focus and concentration",
+          "Foundation for all standing poses"
+        ],
+        "calories_per_minute": 1.2
+      },
+      {
+        "name": "Relaxed",
+        "description": "Neutral standing or sitting posture, monitoring for general alignment and ease.",
+        "benefits": [
+          "Encourages mindfulness of posture",
+          "Promotes relaxation and body awareness",
+          "Allows for rest and integration"
+        ],
+        "calories_per_minute": 0.8
+      }
+    ]
+  }

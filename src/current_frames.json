@@ -1,0 +1,1314 @@
+[
+  {
+    "timestamp": 1744273878.4439838,
+    "relative_distance_matrix": {
+      "nose": {
+        "nose": 0.0,
+        "left_wrist": 0.23767117743965926,
+        "right_wrist": 0.1463971156276276,
+        "left_index": 0.23767117743965926,
+        "right_index": 0.1463971156276276
+      },
+      "left_wrist": {
+        "nose": 0.23767117743965926,
+        "left_wrist": 0.0,
+        "right_wrist": 0.23489923817514866,
+        "left_index": 0.0,
+        "right_index": 0.23489923817514866
+      },
+      "right_wrist": {
+        "nose": 0.1463971156276276,
+        "left_wrist": 0.23489923817514866,
+        "right_wrist": 0.0,
+        "left_index": 0.23489923817514866,
+        "right_index": 1.3877787807814457e-17
+      },
+      "left_index": {
+        "nose": 0.23767117743965926,
+        "left_wrist": 0.0,
+        "right_wrist": 0.23489923817514866,
+        "left_index": 0.0,
+        "right_index": 0.23489923817514866
+      },
+      "right_index": {
+        "nose": 0.1463971156276276,
+        "left_wrist": 0.23489923817514866,
+        "right_wrist": 1.3877787807814457e-17,
+        "left_index": 0.23489923817514866,
+        "right_index": 0.0
+      }
+    },
+    "matrix_size": 5,
+    "available_joints": [
+      "nose",
+      "left_wrist",
+      "right_wrist",
+      "left_index",
+      "right_index"
+    ],
+    "player_height": 0.0,
+    "game_state": "Pranamasana_Start"
+  },
+  {
+    "timestamp": 1744273880.4839003,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Pranamasana_Start"
+  },
+  {
+    "timestamp": 1744273882.4254446,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Pranamasana_Start"
+  },
+  {
+    "timestamp": 1744273884.4991415,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Pranamasana_Start"
+  },
+  {
+    "timestamp": 1744273886.5470374,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Pranamasana_Start"
+  },
+  {
+    "timestamp": 1744273888.5868552,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Pranamasana_Start"
+  },
+  {
+    "timestamp": 1744273890.5094178,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Pranamasana_Start"
+  },
+  {
+    "timestamp": 1744273892.6376383,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Pranamasana_Start"
+  },
+  {
+    "timestamp": 1744273894.825408,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Pranamasana_Start"
+  },
+  {
+    "timestamp": 1744273896.8382452,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Pranamasana_Start"
+  },
+  {
+    "timestamp": 1744273898.9156065,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Pranamasana_Start"
+  },
+  {
+    "timestamp": 1744273900.981147,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Pranamasana_Start"
+  },
+  {
+    "timestamp": 1744273902.8395367,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Pranamasana_Start"
+  },
+  {
+    "timestamp": 1744273905.0088358,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Hasta Uttanasana_Start"
+  },
+  {
+    "timestamp": 1744273907.0654116,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Hasta Uttanasana_Start"
+  },
+  {
+    "timestamp": 1744273909.136651,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Hasta Uttanasana_Start"
+  },
+  {
+    "timestamp": 1744273911.111619,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Hasta Uttanasana_Start"
+  },
+  {
+    "timestamp": 1744273913.161537,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Hasta Uttanasana_Start"
+  },
+  {
+    "timestamp": 1744273915.2988188,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Hasta Uttanasana_Start"
+  },
+  {
+    "timestamp": 1744273917.2561672,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Hasta Uttanasana_Start"
+  },
+  {
+    "timestamp": 1744273919.419343,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Hasta Uttanasana_Start"
+  },
+  {
+    "timestamp": 1744273921.400801,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Hasta Uttanasana_Start"
+  },
+  {
+    "timestamp": 1744273923.4008505,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Hasta Uttanasana_Start"
+  },
+  {
+    "timestamp": 1744273925.3371887,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Padahastasana_Start"
+  },
+  {
+    "timestamp": 1744273927.4913826,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Padahastasana_Start"
+  },
+  {
+    "timestamp": 1744273929.4700391,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Padahastasana_Start"
+  },
+  {
+    "timestamp": 1744273931.5881028,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Padahastasana_Start"
+  },
+  {
+    "timestamp": 1744273933.660761,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Padahastasana_Start"
+  },
+  {
+    "timestamp": 1744273935.7327476,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Padahastasana_Start"
+  },
+  {
+    "timestamp": 1744273937.7812572,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Padahastasana_Start"
+  },
+  {
+    "timestamp": 1744273939.8334613,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Padahastasana_Start"
+  },
+  {
+    "timestamp": 1744273941.7615442,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Padahastasana_Start"
+  },
+  {
+    "timestamp": 1744273943.8938017,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Padahastasana_Start"
+  },
+  {
+    "timestamp": 1744273945.9883306,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Padahastasana_Start"
+  },
+  {
+    "timestamp": 1744273948.0423324,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273949.9794166,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273951.9692929,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273954.0067003,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273956.0718086,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273958.1409085,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273960.296347,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273962.2454698,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273964.401126,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273966.3917215,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273968.4325392,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273970.3948715,
+    "relative_distance_matrix": {
+      "nose": {
+        "nose": 0.0,
+        "left_shoulder": 0.1704345276748783,
+        "right_shoulder": 0.1891269768574635,
+        "left_elbow": 0.3512999822074731,
+        "right_elbow": 0.36230492695095623,
+        "left_wrist": 0.5133710032583695,
+        "right_wrist": 0.5053500804696076,
+        "hip": 0.4459102080476966,
+        "left_knee": 0.511422396938573,
+        "right_knee": 0.6319918307621031,
+        "left_index": 0.44305220843246973,
+        "right_index": 0.4344861202402281
+      },
+      "left_shoulder": {
+        "nose": 0.1704345276748783,
+        "left_shoulder": 0.0,
+        "right_shoulder": 0.25084328692582614,
+        "left_elbow": 0.22950860240978185,
+        "right_elbow": 0.33707631560895013,
+        "left_wrist": 0.42196455377434106,
+        "right_wrist": 0.4389780938632396,
+        "hip": 0.3413778349890169,
+        "left_knee": 0.380716494629691,
+        "right_knee": 0.5396092878232448,
+        "left_index": 0.3675114096056462,
+        "right_index": 0.3654456579112312
+      },
+      "right_shoulder": {
+        "nose": 0.1891269768574635,
+        "left_shoulder": 0.25084328692582614,
+        "right_shoulder": 0.0,
+        "left_elbow": 0.3292569063736855,
+        "right_elbow": 0.23613358319383274,
+        "left_wrist": 0.44459377009406875,
+        "right_wrist": 0.4221965932696042,
+        "hip": 0.35469946508472067,
+        "left_knee": 0.493288143486663,
+        "right_knee": 0.5360417139825655,
+        "left_index": 0.37194013940832926,
+        "right_index": 0.37251017176566176
+      },
+      "left_elbow": {
+        "nose": 0.3512999822074731,
+        "left_shoulder": 0.22950860240978185,
+        "right_shoulder": 0.3292569063736855,
+        "left_elbow": 0.0,
+        "right_elbow": 0.22749670127881794,
+        "left_wrist": 0.19881653504300714,
+        "right_wrist": 0.23506914161741443,
+        "hip": 0.1584255421869979,
+        "left_knee": 0.16828143292158146,
+        "right_knee": 0.31812978575860207,
+        "left_index": 0.16368228948160182,
+        "right_index": 0.16966448691455602
+      },
+      "right_elbow": {
+        "nose": 0.36230492695095623,
+        "left_shoulder": 0.33707631560895013,
+        "right_shoulder": 0.23613358319383274,
+        "left_elbow": 0.22749670127881794,
+        "right_elbow": 0.0,
+        "left_wrist": 0.23504781957192103,
+        "right_wrist": 0.19671694976407014,
+        "hip": 0.19566334252624717,
+        "left_knee": 0.34126202137927913,
+        "right_knee": 0.31220845546973847,
+        "left_index": 0.16626626759469829,
+        "right_index": 0.17347616866617907
+      },
+      "left_wrist": {
+        "nose": 0.5133710032583695,
+        "left_shoulder": 0.42196455377434106,
+        "right_shoulder": 0.44459377009406875,
+        "left_elbow": 0.19881653504300714,
+        "right_elbow": 0.23504781957192103,
+        "left_wrist": 0.0,
+        "right_wrist": 0.07809119671178982,
+        "hip": 0.16886934372275827,
+        "left_knee": 0.1628299336403975,
+        "right_knee": 0.13846745008866443,
+        "left_index": 0.0785571203357096,
+        "right_index": 0.09740239193156171
+      },
+      "right_wrist": {
+        "nose": 0.5053500804696076,
+        "left_shoulder": 0.4389780938632396,
+        "right_shoulder": 0.4221965932696042,
+        "left_elbow": 0.23506914161741443,
+        "right_elbow": 0.19671694976407014,
+        "left_wrist": 0.07809119671178982,
+        "right_wrist": 0.0,
+        "hip": 0.20107457460620823,
+        "left_knee": 0.23447324518119622,
+        "right_knee": 0.16050117221817536,
+        "left_index": 0.07271986599814247,
+        "right_index": 0.08094171103891025
+      },
+      "hip": {
+        "nose": 0.4459102080476966,
+        "left_shoulder": 0.3413778349890169,
+        "right_shoulder": 0.35469946508472067,
+        "left_elbow": 0.1584255421869979,
+        "right_elbow": 0.19566334252624717,
+        "left_wrist": 0.16886934372275827,
+        "right_wrist": 0.20107457460620823,
+        "hip": 0.0,
+        "left_knee": 0.21966778244179794,
+        "right_knee": 0.22338195354908558,
+        "left_index": 0.15785109254036578,
+        "right_index": 0.18819588564464332
+      },
+      "left_knee": {
+        "nose": 0.511422396938573,
+        "left_shoulder": 0.380716494629691,
+        "right_shoulder": 0.493288143486663,
+        "left_elbow": 0.16828143292158146,
+        "right_elbow": 0.34126202137927913,
+        "left_wrist": 0.1628299336403975,
+        "right_wrist": 0.23447324518119622,
+        "hip": 0.21966778244179794,
+        "left_knee": 0.0,
+        "right_knee": 0.2564976217126196,
+        "left_index": 0.19653742499570906,
+        "right_index": 0.20369559471910062
+      },
+      "right_knee": {
+        "nose": 0.6319918307621031,
+        "left_shoulder": 0.5396092878232448,
+        "right_shoulder": 0.5360417139825655,
+        "left_elbow": 0.31812978575860207,
+        "right_elbow": 0.31220845546973847,
+        "left_wrist": 0.13846745008866443,
+        "right_wrist": 0.16050117221817536,
+        "hip": 0.22338195354908558,
+        "left_knee": 0.2564976217126196,
+        "right_knee": 0.0,
+        "left_index": 0.200721158784687,
+        "right_index": 0.22408124249693284
+      },
+      "left_index": {
+        "nose": 0.44305220843246973,
+        "left_shoulder": 0.3675114096056462,
+        "right_shoulder": 0.37194013940832926,
+        "left_elbow": 0.16368228948160182,
+        "right_elbow": 0.16626626759469829,
+        "left_wrist": 0.0785571203357096,
+        "right_wrist": 0.07271986599814247,
+        "hip": 0.15785109254036578,
+        "left_knee": 0.19653742499570906,
+        "right_knee": 0.200721158784687,
+        "left_index": 0.0,
+        "right_index": 0.0336657511396674
+      },
+      "right_index": {
+        "nose": 0.4344861202402281,
+        "left_shoulder": 0.3654456579112312,
+        "right_shoulder": 0.37251017176566176,
+        "left_elbow": 0.16966448691455602,
+        "right_elbow": 0.17347616866617907,
+        "left_wrist": 0.09740239193156171,
+        "right_wrist": 0.08094171103891025,
+        "hip": 0.18819588564464332,
+        "left_knee": 0.20369559471910062,
+        "right_knee": 0.22408124249693284,
+        "left_index": 0.0336657511396674,
+        "right_index": 0.0
+      }
+    },
+    "matrix_size": 12,
+    "available_joints": [
+      "nose",
+      "left_shoulder",
+      "right_shoulder",
+      "left_elbow",
+      "right_elbow",
+      "left_wrist",
+      "right_wrist",
+      "hip",
+      "left_knee",
+      "right_knee",
+      "left_index",
+      "right_index"
+    ],
+    "player_height": 0.37133756279945374,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273972.57332,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.37133756279945374,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273974.5278609,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.37133756279945374,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273976.604528,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.37133756279945374,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273978.6071954,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.37133756279945374,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273980.6965585,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.37133756279945374,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273982.758443,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.37133756279945374,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273984.8221993,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.37133756279945374,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273986.9215646,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.37133756279945374,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273988.8907094,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.37133756279945374,
+    "game_state": "Ashwa Sanchalanasana_Left"
+  },
+  {
+    "timestamp": 1744273990.9690294,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.37133756279945374,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744273992.918498,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.37133756279945374,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744273995.1209135,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.37133756279945374,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744273997.0609078,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.37133756279945374,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744273999.1184614,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.37133756279945374,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274001.165138,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.37133756279945374,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274003.308926,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.37133756279945374,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274005.2559998,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.37133756279945374,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274007.3461318,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.37133756279945374,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274009.308174,
+    "relative_distance_matrix": {
+      "nose": {
+        "nose": 0.0,
+        "left_shoulder": 0.11351982545048923,
+        "right_shoulder": 0.13380311449549684,
+        "left_elbow": 0.1775967905681911,
+        "right_elbow": 0.2545418489359722,
+        "left_wrist": 0.17795337305446493,
+        "right_wrist": 0.38975923450184935,
+        "hip": 0.3278050477997105,
+        "left_knee": 0.26785596902388836,
+        "right_knee": 0.4441189785750433,
+        "left_ankle": 0.4420433893811765,
+        "right_ankle": 0.6630950373625099,
+        "left_index": 0.10714598333170013,
+        "right_index": 0.34655255434071053
+      },
+      "left_shoulder": {
+        "nose": 0.11351982545048923,
+        "left_shoulder": 0.0,
+        "right_shoulder": 0.15708499284805635,
+        "left_elbow": 0.07735757515725827,
+        "right_elbow": 0.23168893769919305,
+        "left_wrist": 0.10838363491171896,
+        "right_wrist": 0.35562310635109284,
+        "hip": 0.2599072912237849,
+        "left_knee": 0.19400842601418591,
+        "right_knee": 0.39603690577599227,
+        "left_ankle": 0.3636247902387719,
+        "right_ankle": 0.6047280366831416,
+        "left_index": 0.08992980327262201,
+        "right_index": 0.31541611183033375
+      },
+      "right_shoulder": {
+        "nose": 0.13380311449549684,
+        "left_shoulder": 0.15708499284805635,
+        "right_shoulder": 0.0,
+        "left_elbow": 0.18662389529970314,
+        "right_elbow": 0.1452560543715264,
+        "left_wrist": 0.15992269624844357,
+        "right_wrist": 0.2865623307537654,
+        "hip": 0.2457408211490807,
+        "left_knee": 0.25548243631539874,
+        "right_knee": 0.36468091433768074,
+        "left_ankle": 0.3906258851415256,
+        "right_ankle": 0.5791589781800167,
+        "left_index": 0.14382171012569067,
+        "right_index": 0.24928607973691602
+      },
+      "left_elbow": {
+        "nose": 0.1775967905681911,
+        "left_shoulder": 0.07735757515725827,
+        "right_shoulder": 0.18662389529970314,
+        "left_elbow": 0.0,
+        "right_elbow": 0.20663872650188375,
+        "left_wrist": 0.05876320308597263,
+        "right_wrist": 0.3092922552870445,
+        "hip": 0.20116931204935637,
+        "left_knee": 0.12275165876810423,
+        "right_knee": 0.3343031757911331,
+        "left_ankle": 0.2884256685226776,
+        "right_ankle": 0.5367399392346581,
+        "left_index": 0.10162773943895474,
+        "right_index": 0.2709098795172477
+      },
+      "right_elbow": {
+        "nose": 0.2545418489359722,
+        "left_shoulder": 0.23168893769919305,
+        "right_shoulder": 0.1452560543715264,
+        "left_elbow": 0.20663872650188375,
+        "right_elbow": 0.0,
+        "left_wrist": 0.15645107684238974,
+        "right_wrist": 0.14175699455349944,
+        "hip": 0.12999976699619883,
+        "left_knee": 0.20484717103370728,
+        "right_knee": 0.22572908724522103,
+        "left_ankle": 0.27746860181394983,
+        "right_ankle": 0.435971941747506,
+        "left_index": 0.19816565238232367,
+        "right_index": 0.10641097233987286
+      },
+      "left_wrist": {
+        "nose": 0.17795337305446493,
+        "left_shoulder": 0.10838363491171896,
+        "right_shoulder": 0.15992269624844357,
+        "left_elbow": 0.05876320308597263,
+        "right_elbow": 0.15645107684238974,
+        "left_wrist": 0.0,
+        "right_wrist": 0.2591461398405311,
+        "hip": 0.16699848726268882,
+        "left_knee": 0.10129308124340095,
+        "right_knee": 0.28905647429817155,
+        "left_ankle": 0.2653077565194244,
+        "right_ankle": 0.499705436775292,
+        "left_index": 0.0849611235824971,
+        "right_index": 0.21817044426077026
+      },
+      "right_wrist": {
+        "nose": 0.38975923450184935,
+        "left_shoulder": 0.35562310635109284,
+        "right_shoulder": 0.2865623307537654,
+        "left_elbow": 0.3092922552870445,
+        "right_elbow": 0.14175699455349944,
+        "left_wrist": 0.2591461398405311,
+        "right_wrist": 0.0,
+        "hip": 0.1362307453833311,
+        "left_knee": 0.25314117534661035,
+        "right_knee": 0.11300961181715675,
+        "left_ankle": 0.2223556174948149,
+        "right_ankle": 0.30258611066924274,
+        "left_index": 0.31586186853631787,
+        "right_index": 0.046445961843475915
+      },
+      "hip": {
+        "nose": 0.3278050477997105,
+        "left_shoulder": 0.2599072912237849,
+        "right_shoulder": 0.2457408211490807,
+        "left_elbow": 0.20116931204935637,
+        "right_elbow": 0.12999976699619883,
+        "left_wrist": 0.16699848726268882,
+        "right_wrist": 0.1362307453833311,
+        "hip": 0.0,
+        "left_knee": 0.1588128403044441,
+        "right_knee": 0.16578640682568405,
+        "left_ankle": 0.1639878990344529,
+        "right_ankle": 0.3559376507017153,
+        "left_index": 0.24556978007458016,
+        "right_index": 0.12013510271818664
+      },
+      "left_knee": {
+        "nose": 0.26785596902388836,
+        "left_shoulder": 0.19400842601418591,
+        "right_shoulder": 0.25548243631539874,
+        "left_elbow": 0.12275165876810423,
+        "right_elbow": 0.20484717103370728,
+        "left_wrist": 0.10129308124340095,
+        "right_wrist": 0.25314117534661035,
+        "hip": 0.1588128403044441,
+        "left_knee": 0.0,
+        "right_knee": 0.24091095801693924,
+        "left_ankle": 0.1863815283464623,
+        "right_ankle": 0.43711553286251753,
+        "left_index": 0.1628928639246797,
+        "right_index": 0.21738037040679073
+      },
+      "right_knee": {
+        "nose": 0.4441189785750433,
+        "left_shoulder": 0.39603690577599227,
+        "right_shoulder": 0.36468091433768074,
+        "left_elbow": 0.3343031757911331,
+        "right_elbow": 0.22572908724522103,
+        "left_wrist": 0.28905647429817155,
+        "right_wrist": 0.11300961181715675,
+        "hip": 0.16578640682568405,
+        "left_knee": 0.24091095801693924,
+        "right_knee": 0.0,
+        "left_ankle": 0.14647526471206626,
+        "right_ankle": 0.22139841045549485,
+        "left_index": 0.35179815857672336,
+        "right_index": 0.12641261466350484
+      },
+      "left_ankle": {
+        "nose": 0.4420433893811765,
+        "left_shoulder": 0.3636247902387719,
+        "right_shoulder": 0.3906258851415256,
+        "left_elbow": 0.2884256685226776,
+        "right_elbow": 0.27746860181394983,
+        "left_wrist": 0.2653077565194244,
+        "right_wrist": 0.2223556174948149,
+        "hip": 0.1639878990344529,
+        "left_knee": 0.1863815283464623,
+        "right_knee": 0.14647526471206626,
+        "left_ankle": 0.0,
+        "right_ankle": 0.2691223931191139,
+        "left_index": 0.3405282959399972,
+        "right_index": 0.21952090838795515
+      },
+      "right_ankle": {
+        "nose": 0.6630950373625099,
+        "left_shoulder": 0.6047280366831416,
+        "right_shoulder": 0.5791589781800167,
+        "left_elbow": 0.5367399392346581,
+        "right_elbow": 0.435971941747506,
+        "left_wrist": 0.499705436775292,
+        "right_wrist": 0.30258611066924274,
+        "hip": 0.3559376507017153,
+        "left_knee": 0.43711553286251753,
+        "right_knee": 0.22139841045549485,
+        "left_ankle": 0.2691223931191139,
+        "right_ankle": 0.0,
+        "left_index": 0.5686780266774797,
+        "right_index": 0.3353217790905013
+      },
+      "left_index": {
+        "nose": 0.10714598333170013,
+        "left_shoulder": 0.08992980327262201,
+        "right_shoulder": 0.14382171012569067,
+        "left_elbow": 0.10162773943895474,
+        "right_elbow": 0.19816565238232367,
+        "left_wrist": 0.0849611235824971,
+        "right_wrist": 0.31586186853631787,
+        "hip": 0.24556978007458016,
+        "left_knee": 0.1628928639246797,
+        "right_knee": 0.35179815857672336,
+        "left_ankle": 0.3405282959399972,
+        "right_ankle": 0.5686780266774797,
+        "left_index": 0.0,
+        "right_index": 0.27109908930200266
+      },
+      "right_index": {
+        "nose": 0.34655255434071053,
+        "left_shoulder": 0.31541611183033375,
+        "right_shoulder": 0.24928607973691602,
+        "left_elbow": 0.2709098795172477,
+        "right_elbow": 0.10641097233987286,
+        "left_wrist": 0.21817044426077026,
+        "right_wrist": 0.046445961843475915,
+        "hip": 0.12013510271818664,
+        "left_knee": 0.21738037040679073,
+        "right_knee": 0.12641261466350484,
+        "left_ankle": 0.21952090838795515,
+        "right_ankle": 0.3353217790905013,
+        "left_index": 0.27109908930200266,
+        "right_index": 0.0
+      }
+    },
+    "matrix_size": 14,
+    "available_joints": [
+      "nose",
+      "left_shoulder",
+      "right_shoulder",
+      "left_elbow",
+      "right_elbow",
+      "left_wrist",
+      "right_wrist",
+      "hip",
+      "left_knee",
+      "right_knee",
+      "left_ankle",
+      "right_ankle",
+      "left_index",
+      "right_index"
+    ],
+    "player_height": 0.4003574252128601,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274011.3506174,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274013.4644608,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274015.5113406,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274017.6448872,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274019.5617065,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274021.6483033,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274023.762278,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274025.8153431,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274027.862895,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274029.7996707,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274031.845849,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274033.9023252,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274035.9848642,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274038.0347059,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Dandasana"
+  },
+  {
+    "timestamp": 1744274040.152123,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Ashtanga Namaskara"
+  },
+  {
+    "timestamp": 1744274042.0343435,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Ashtanga Namaskara"
+  },
+  {
+    "timestamp": 1744274044.0835454,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Ashtanga Namaskara"
+  },
+  {
+    "timestamp": 1744274046.1885335,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Ashtanga Namaskara"
+  },
+  {
+    "timestamp": 1744274048.149819,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Ashtanga Namaskara"
+  },
+  {
+    "timestamp": 1744274050.2174616,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Ashtanga Namaskara"
+  },
+  {
+    "timestamp": 1744274052.3035727,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Ashtanga Namaskara"
+  },
+  {
+    "timestamp": 1744274054.3719609,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Ashtanga Namaskara"
+  },
+  {
+    "timestamp": 1744274056.3525825,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Ashtanga Namaskara"
+  },
+  {
+    "timestamp": 1744274058.5218525,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Ashtanga Namaskara"
+  },
+  {
+    "timestamp": 1744274060.4655802,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Ashtanga Namaskara"
+  },
+  {
+    "timestamp": 1744274062.6329563,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Ashtanga Namaskara"
+  },
+  {
+    "timestamp": 1744274064.6768384,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Bhujangasana"
+  },
+  {
+    "timestamp": 1744274066.7040133,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Bhujangasana"
+  },
+  {
+    "timestamp": 1744274068.76421,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Bhujangasana"
+  },
+  {
+    "timestamp": 1744274070.8375146,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Bhujangasana"
+  },
+  {
+    "timestamp": 1744274072.759119,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Bhujangasana"
+  },
+  {
+    "timestamp": 1744274074.9032393,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Bhujangasana"
+  },
+  {
+    "timestamp": 1744274076.935167,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Bhujangasana"
+  },
+  {
+    "timestamp": 1744274078.9760938,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Bhujangasana"
+  },
+  {
+    "timestamp": 1744274081.010495,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Bhujangasana"
+  },
+  {
+    "timestamp": 1744274083.001441,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Bhujangasana"
+  },
+  {
+    "timestamp": 1744274085.1430986,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Bhujangasana"
+  },
+  {
+    "timestamp": 1744274087.1593826,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Bhujangasana"
+  },
+  {
+    "timestamp": 1744274089.145504,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Bhujangasana"
+  },
+  {
+    "timestamp": 1744274091.2455647,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Pranamasana_Start"
+  },
+  {
+    "timestamp": 1744274092.6126063,
+    "relative_distance_matrix": {},
+    "matrix_size": 0,
+    "available_joints": [],
+    "player_height": 0.4003574252128601,
+    "game_state": "Pranamasana_Start"
+  }
+]
